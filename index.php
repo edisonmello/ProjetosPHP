@@ -1,5 +1,5 @@
 <?php
 
- echo "Hello Word de hoje 123";
+ echo Olá Mundo de hoje 123";
 
 ?>
